@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1343
 slug  : nanite-factory
-seal  : d4abcdd7df83763a56e67d08a0966119d5df9c769cc59fae6ebcf71cc533850e
-prev  : de0f1a32652c9451ef0edaacd91a7782c7888da0be2c088d1835eccbe6e04876
-link  : b75088c65f8814457e4a13021bbddae944fa36be52419065b2ede7abe9822e16
-head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+seal  : f4b939bbdf15df3f2a163f8e72135b3031e10efb665124663541c2fcf4a21125
+prev  : 56386fbdd74dbeb956aae2f0d8e3b33e471342672ff550b50fb2ae10e2a1c4d4
+link  : fe610cfbf1a02974a5be523f989befbcafd27c8e2735ab0f994daf36fe315bbb
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
